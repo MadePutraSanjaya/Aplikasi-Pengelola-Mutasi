@@ -341,7 +341,7 @@
     <div class="float-right d-none d-sm-block">
       <b>Version</b> 1.0.0
     </div>
-    <strong>&copy; 2023</strong> Putu Gede Putra Jaya
+    <strong>&copy; 2024</strong> UAS PEMROGAMMAN WEB
   </footer>
 
   <!-- Control Sidebar -->
